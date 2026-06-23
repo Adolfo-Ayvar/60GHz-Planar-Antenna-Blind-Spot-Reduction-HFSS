@@ -1,4 +1,0 @@
-Design A is realized as a conventional probe-fed patch antenna.
-The antenna is implemented by utilizing a semisoft surface established approximately a quarter wavelength from the short point, effectively acting as an open boundary.
-This configuration mitigates substrate-related interactions and suppresses radiation-pattern distortions induced by
-nearby metallic structures, including elements embedded in the module.
